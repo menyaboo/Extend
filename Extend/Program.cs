@@ -11,7 +11,7 @@ namespace Extend
         static void Main(string[] args)
         {
             Lib lib = new Lib();
-            lib.PrintStr();
+            Console.WriteLine(lib.PrintStr());
 
             Console.ReadLine();
         }
