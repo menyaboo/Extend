@@ -8,5 +8,6 @@ namespace Extend
 {
     internal class Lib
     {
+        public string str = "Hello world"
     }
 }
